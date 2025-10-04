@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @forIinRanger
 - 👀 I’m interested in maths, programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Golang
+
 
 <!---
 forIinRanger/forIinRanger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
