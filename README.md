@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @forIinRanger
-- 👀 I’m interested in maths, programming
-- 🌱 I’m currently learning Golang
+- 👀 I’m interested in maths, programming and climbing
 
 
 <!---
